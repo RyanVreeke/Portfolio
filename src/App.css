@@ -1,0 +1,52 @@
+.App-container {
+  background-color: #282c34;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: row;
+  /* flex: 1; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+}
+
+.SideBar-container {
+  /* display: flex; */
+  background-color: #f0f0f0;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+.Information-container {
+  /* display: flex; */
+  flex: 1;
+  background-color: antiquewhite;
+  border: 1px solid black;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.Profile-Pic {
+  margin: 10px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Profile-Pic {
+  height: 580px;
+  width: 400px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+.App-link {
+  color: #61dafb;
+}
