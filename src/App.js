@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App-container">
       <div className="SideBar-container">
-      <SideBar />
+        <SideBar />
       </div>
       <div className="Information-container">
         {/* <header className="App-header"> */}

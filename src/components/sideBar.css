@@ -1,4 +1,6 @@
 .SideBar {
+  justify-items: center;
+  justify-content: center;
   margin-left: 1vw;
   margin-right: 1vw;
   color: black;
@@ -7,4 +9,13 @@
 .Link {
   color: #61dafb;
   font-size: medium;
+}
+
+.Avatar {
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+
+h2 {
+  padding-top: 0px;
 }
