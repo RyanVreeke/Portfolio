@@ -11,7 +11,7 @@ function App() {
         {/* <header className="App-header"> */}
           <img className="Profile-Pic" src="/images/ProfilePic.jpg" alt="profile" />
           <p>
-            This is a picture of me!!!
+            This is a picture of me!
           </p>
         {/* </header> */}
       </div>
