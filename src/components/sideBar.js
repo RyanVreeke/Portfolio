@@ -17,7 +17,7 @@ export default function SideBar() {
     return(
       <div className='SideBar'>
         <div className='Avatar'>
-          <Avatar alt="Ryan Vreeke" src="/images/ProfilePic.jpg" className={classes.large} />
+          <Avatar alt="Ryan Vreeke" src="./images/ProfilePic.jpg" className={classes.large} />
           <h2>
             Ryan Vreeke
           </h2>

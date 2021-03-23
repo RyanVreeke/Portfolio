@@ -9,7 +9,7 @@ function App() {
       </div>
       <div className="Information-container">
         {/* <header className="App-header"> */}
-          <img className="Profile-Pic" src="/images/ProfilePic.jpg" alt="profile" />
+          <img className="Profile-Pic" src="./images/ProfilePic.jpg" alt="profile" />
           <p>
             This is a picture of me!
           </p>
